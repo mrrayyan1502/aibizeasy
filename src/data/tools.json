@@ -1,0 +1,86 @@
+[
+  {
+    "id": "writesonic",
+    "name": "Writesonic",
+    "title": "Supercharge Your Content Creation",
+    "description": "An AI writer that creates SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify for free.",
+    "category": "Writing",
+    "rating": 4.8,
+    "pros": ["Highly SEO optimized", "Great for ad copy", "Affordable starter plans"],
+    "cons": ["Credit-based system", "Can be repetitive occasionally"],
+    "affiliateLink": "https://example.com/affiliate/writesonic",
+    "isTop3": true
+  },
+  {
+    "id": "jasper",
+    "name": "Jasper.ai",
+    "title": "Enterprise-Grade AI Marketing Co-Pilot",
+    "description": "Jasper is the AI content generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.",
+    "category": "Writing",
+    "rating": 4.9,
+    "pros": ["Excellent tone of voice control", "Integrates with Surfer SEO", "Strong brand voice features"],
+    "cons": ["Pricier than competitors", "Steeper learning curve"],
+    "affiliateLink": "https://example.com/affiliate/jasper",
+    "isTop3": true
+  },
+  {
+    "id": "canva",
+    "name": "Canva",
+    "title": "AI-Powered Design for Everyone",
+    "description": "Canva makes it easy to create professional designs and to share or print them, featuring powerful new Magic AI tools.",
+    "category": "Design",
+    "rating": 5.0,
+    "pros": ["Incredibly easy to use", "Massive template library", "Magic Studio AI tools are powerful"],
+    "cons": ["Limited vector capabilities", "Pro version needed for best features"],
+    "affiliateLink": "https://example.com/affiliate/canva",
+    "isTop3": true
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "title": "The Connected Workspace with AI",
+    "description": "Notion is a single space where you can think, write, and plan. Capture thoughts, manage projects, or even run an entire company — and do it exactly the way you want.",
+    "category": "Productivity",
+    "rating": 4.8,
+    "pros": ["Highly customizable", "All-in-one workspace", "Notion AI is seamless"],
+    "cons": ["Can be overwhelming to set up", "Offline mode is limited"],
+    "affiliateLink": "https://example.com/affiliate/notion",
+    "isTop3": false
+  },
+  {
+    "id": "grammarly",
+    "name": "Grammarly",
+    "title": "Your AI Writing Assistant",
+    "description": "Grammarly organizes your writing feedback by theme, so you can see how each change will help your readers better understand your message.",
+    "category": "Writing",
+    "rating": 4.7,
+    "pros": ["Works everywhere you type", "Excellent grammar and tone checks", "Generative AI rewriting features"],
+    "cons": ["Free version is basic", "Can be overly pedantic sometimes"],
+    "affiliateLink": "https://example.com/affiliate/grammarly",
+    "isTop3": false
+  },
+  {
+    "id": "copyai",
+    "name": "Copy.ai",
+    "title": "Say Goodbye to the Blank Page",
+    "description": "Experience the full power of an AI content generator that delivers premium results in seconds.",
+    "category": "Marketing",
+    "rating": 4.6,
+    "pros": ["Generous free tier", "Great for short-form copy", "Lots of templates"],
+    "cons": ["Long-form editor needs improvement", "Output quality varies"],
+    "affiliateLink": "https://example.com/affiliate/copyai",
+    "isTop3": false
+  },
+  {
+    "id": "systemeio",
+    "name": "Systeme.io",
+    "title": "All-in-One Marketing Platform",
+    "description": "Systeme.io has all the tools you need to grow your online business. Sales funnels, email marketing, online courses, website builder, and more.",
+    "category": "Marketing",
+    "rating": 4.8,
+    "pros": ["Amazing free plan", "All tools in one place", "Very affordable paid plans"],
+    "cons": ["Fewer integrations than competitors", "Builder can be slightly clunky"],
+    "affiliateLink": "https://example.com/affiliate/systemeio",
+    "isTop3": false
+  }
+]
